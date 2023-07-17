@@ -1,1 +1,2 @@
 # central-configuration
+git=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
